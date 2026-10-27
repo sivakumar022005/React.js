@@ -6,7 +6,7 @@ function ProfileCard() {
       {/* Profile Image */}
       <img
         src={`${process.env.PUBLIC_URL}/img/profile.jpeg`}
-        alt="Praveen Kumar"
+        alt="Siva Kumar"
         className="w-28 h-28 rounded-full object-cover object-top mx-auto mt-8 mb-6 border-4 border-gray-200"
       />
 
@@ -47,7 +47,7 @@ function ProfileCard() {
 
       {/* GitHub Button */}
       <a
-        href="https://github.com/PraveenKumar7545?tab=repositories"
+        href="https://github.com/sivakumar022005?tab=repositories"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-7 bg-gray-900 text-white px-6 py-3 rounded-lg font-semibold hover:bg-gray-700 transition"
